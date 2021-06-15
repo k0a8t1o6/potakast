@@ -1,17 +1,17 @@
 ---
-title: "Hugo Zen theme"
-baseURL: "https://example.org/"
+title: "Potakast"
+baseURL: "https://potakast.takashi.dev/"
 theme: "zen"
-languageCode: "en-GB"
-defaultContentLanguage: "en"
+languageCode: "ja-JP"
+defaultContentLanguage: "jp"
 pluralizelisttitles: false
 removePathAccents: true
 paginate: 10
 paginatePath: "page"
 rssLimit: 20
 author:
-  name: "Your Name"
-  url: "https://example.org/somepage"
+  name: "Takashi Kato"
+  url: "https://potakast.takashi.dev/about"
   avatar: "path/to/some-image.jpg"
 
 outputFormats:
@@ -28,7 +28,7 @@ outputs:
 params:
   contact: "info@example.org"
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
-  description: "The zen theme for Hugo example site."
+  description: "A podcast by Takashi Kato."
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
   feedlinks: true
