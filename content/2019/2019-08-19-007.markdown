@@ -1,0 +1,18 @@
+---
+author: Taka
+date: 2019-08-19 10:00:38+00:00
+draft: false
+title: '007: Learning Computer Science and Linux Essentials'
+type: post
+url: /ep/007/
+categories:
+- Podcast
+---
+
+
+
+
+先日紹介したMOOCの Learning Resources を利用して、CSとLinux哲学について勉強をしていることをお話ししました。
+
+
+

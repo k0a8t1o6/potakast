@@ -1,0 +1,18 @@
+---
+author: Taka
+date: 2019-07-30 12:00:34+00:00
+draft: false
+title: '006: Boosting capability with MOOC'
+type: post
+url: /ep/006/
+categories:
+- Podcast
+---
+
+
+
+
+先伸ばしていた自己紹介において、Pythonプログラミングなどをどのように勉強しているかについてお話をしました。
+
+
+
