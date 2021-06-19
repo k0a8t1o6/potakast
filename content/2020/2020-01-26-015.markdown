@@ -7,6 +7,12 @@ type: post
 url: /ep/015/
 categories:
 - Podcast
+podcast:
+    mp3:        https://s3.ap-northeast-1.amazonaws.com/potakast.fm/015.m4a
+    duration:   791
+    image:
+        src:    images/cover/cover_art.png
+    season:     1
 ---
 
 

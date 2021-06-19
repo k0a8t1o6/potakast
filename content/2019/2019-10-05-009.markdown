@@ -7,6 +7,12 @@ type: post
 url: /ep/009/
 categories:
 - Podcast
+podcast:
+    mp3:        https://s3.ap-northeast-1.amazonaws.com/potakast.fm/009.m4a
+    duration:   721
+    image:
+        src:    images/cover/cover_art.png
+    season:     1
 ---
 
 
