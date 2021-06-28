@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "2020  Potakast",
+    "description": "  2020  Potakast",
+    "home_page_url": "https://potakast.takashi.dev/",
+    "feed_url": "https://potakast.takashi.dev/2020/index.json",
+    "language": "ja-JP",
+    "icon": "https://potakast.takashi.dev/apple-touch-icon.png",
+    "favicon": "https://potakast.takashi.dev/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "Takashi Kato",
+            "url": "https://potakast.takashi.dev/about",
+            "avatar": "https://potakast.takashi.dev/path/to/some-image.jpg"
+        }
+    ],
+    "items": [
+        {
+            "title": "015: This year to write in markdown and bullet journalling",
+            "date_published": "2020-01-26T07:00:25Z",
+            "date_modified": "2020-01-26T07:00:25Z",
+            "id": "https://potakast.takashi.dev/ep/015/",
+            "url": "https://potakast.takashi.dev/ep/015/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003e2020年の学びで予定していることを軸に、今年に入ってから数週間はまっていることをお話ししました。日記を書く、メモを取る時など、是非シンプルなテキストファイルを使ってみてください。時間も空間も超えて持ち運ぶことができるフォーマットで自分の情報を持ち歩くと便利ですよ。\u003c/p\u003e\n\u003cp\u003eエンジニアとして\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eJanuary - \u003ca href=\"http://www.jstqb.jp/syllabus.html\"\u003eJSTQB Exam\u003c/a\u003e Foundation Level\u003c/li\u003e\n\u003cli\u003eFebruary - \u003ca href=\"https://www.uopeople.edu/programs/cs/degrees/computer-science-bachelor-degree-2/\"\u003eBachelor of Computer Science at UoP\u003c/a\u003e, a free course in accredit university\u003c/li\u003e\n\u003cli\u003eMarch - Machine Learning Training\u003c/li\u003e\n\u003cli\u003eJune - Write component and system tests\u003c/li\u003e\n\u003cli\u003eAug - Packing software\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e学びたい言語\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eApril - Chinese \u003ca href=\"http://www.hskj.jp/level/\"\u003eHSK 4\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eGerman on \u003ca href=\"https://www.duolingo.com/course/de/en/Learn-German\"\u003eduolingo\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eMusic by slenderbodies @\u003ca href=\"https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw\"\u003eYouTube\u003c/a\u003e\u003c/p\u003e\n"
+        }
+        ]
+}

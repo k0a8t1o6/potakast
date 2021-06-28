@@ -8,7 +8,7 @@ pluralizelisttitles: false
 removePathAccents: true
 paginate: 10
 paginatePath: "page"
-rssLimit: 20
+rssLimit: 100
 author:
   name: "Takashi Kato"
   url: "https://potakast.takashi.dev/about"
@@ -36,7 +36,19 @@ params:
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
   imageMaxWidth: 400
+  logo: false
   mobileMenu: true
   poweredby: false
   sidebar: true
-  submitted: true
+  submitted: false
+
+  podcast:
+    title:        "Potakast"
+    description:  "Potakastは、ITエンジニアのTakaが、世界や日常のいたるところに散らばっている楽しいも物、美しいもの、不思議なものをお話ししていきます。"
+    image":       "https://www.takashi.dev/images/20200920-ios14_home.jpg"
+    category:
+      name:       "Society & Culture"
+    author:       "Taka"
+    owner:
+      name:       "Takashi Kato"
+    local:        false

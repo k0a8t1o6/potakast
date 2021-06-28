@@ -1,0 +1,214 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Podcast  Potakast",
+    "description": "  Podcast  Potakast",
+    "home_page_url": "https://potakast.takashi.dev/",
+    "feed_url": "https://potakast.takashi.dev/podcast/index.json",
+    "language": "ja-JP",
+    "icon": "https://potakast.takashi.dev/apple-touch-icon.png",
+    "favicon": "https://potakast.takashi.dev/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "Takashi Kato",
+            "url": "https://potakast.takashi.dev/about",
+            "avatar": "https://potakast.takashi.dev/path/to/some-image.jpg"
+        }
+    ],
+    "items": [
+        {
+            "title": "015: This year to write in markdown and bullet journalling",
+            "date_published": "2020-01-26T07:00:25Z",
+            "date_modified": "2020-01-26T07:00:25Z",
+            "id": "https://potakast.takashi.dev/ep/015/",
+            "url": "https://potakast.takashi.dev/ep/015/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003e2020年の学びで予定していることを軸に、今年に入ってから数週間はまっていることをお話ししました。日記を書く、メモを取る時など、是非シンプルなテキストファイルを使ってみてください。時間も空間も超えて持ち運ぶことができるフォーマットで自分の情報を持ち歩くと便利ですよ。\u003c/p\u003e\n\u003cp\u003eエンジニアとして\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eJanuary - \u003ca href=\"http://www.jstqb.jp/syllabus.html\"\u003eJSTQB Exam\u003c/a\u003e Foundation Level\u003c/li\u003e\n\u003cli\u003eFebruary - \u003ca href=\"https://www.uopeople.edu/programs/cs/degrees/computer-science-bachelor-degree-2/\"\u003eBachelor of Computer Science at UoP\u003c/a\u003e, a free course in accredit university\u003c/li\u003e\n\u003cli\u003eMarch - Machine Learning Training\u003c/li\u003e\n\u003cli\u003eJune - Write component and system tests\u003c/li\u003e\n\u003cli\u003eAug - Packing software\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e学びたい言語\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eApril - Chinese \u003ca href=\"http://www.hskj.jp/level/\"\u003eHSK 4\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eGerman on \u003ca href=\"https://www.duolingo.com/course/de/en/Learn-German\"\u003eduolingo\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eMusic by slenderbodies @\u003ca href=\"https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw\"\u003eYouTube\u003c/a\u003e\u003c/p\u003e\n"
+        },
+        {
+            "title": "014: Wonderful Year 2019",
+            "date_published": "2019-12-22T08:00:59Z",
+            "date_modified": "2019-12-22T08:00:59Z",
+            "id": "https://potakast.takashi.dev/ep/014/",
+            "url": "https://potakast.takashi.dev/ep/014/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003e年の瀬となりまして、2019年の振り返りをいたしました。この一年はみなさんにとっていかがでしたでしょうか。しっかりと、日記やブログなどに記録をしていきましょう。自身の成長につながるそうですよ。\u003c/p\u003e\n\u003cp\u003e新しく始めたこととして\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003ePython, Bash\u003c/li\u003e\n\u003cli\u003ePotakast\u003c/li\u003e\n\u003cli\u003eKonmari\u003c/li\u003e\n\u003cli\u003eFamily, and Life\u003c/li\u003e\n\u003cli\u003eNew Job in Software Development\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e楽しめたことは\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eTravel\u003c/li\u003e\n\u003cli\u003ePlaying Switch on Train\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eMusic by slenderbodies @\u003ca href=\"https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw\"\u003eYouTube\u003c/a\u003e\u003c/p\u003e\n"
+        },
+        {
+            "title": "013: Four Days Based in Bern and Zurich",
+            "date_published": "2019-12-15T10:00:00Z",
+            "date_modified": "2019-12-15T10:00:00Z",
+            "id": "https://potakast.takashi.dev/ep/013/",
+            "url": "https://potakast.takashi.dev/ep/013/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003e\u003ca href=\"http://potakast.fm/ep/012/\"\u003eep012\u003c/a\u003eからの続き、ヨーロッパの旅行スイス編です。スイスでは3つの都市に泊まり、5箇所の町を回ってきました。\u003c/p\u003e\n\u003cp\u003eMusic by slenderbodies @\u003ca href=\"https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw\"\u003eYouTube\u003c/a\u003e\u003c/p\u003e\n"
+        },
+        {
+            "title": "012: Two days Trip in Venice and Milan",
+            "date_published": "2019-11-30T09:00:49Z",
+            "date_modified": "2019-11-30T09:00:49Z",
+            "id": "https://potakast.takashi.dev/ep/012/",
+            "url": "https://potakast.takashi.dev/ep/012/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003eヨーロッパ旅行から帰ってまいりました。ヴェネチアとミラノに滞在をしてよかったこと、大変だったことをお話ししています。\u003c/p\u003e\n\u003cp\u003eMusic by slenderbodies @\u003ca href=\"https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw\"\u003eYouTube\u003c/a\u003e\u003c/p\u003e\n"
+        },
+        {
+            "title": "011: How I prepared my trip to Switzerland and Italy",
+            "date_published": "2019-10-23T14:00:14Z",
+            "date_modified": "2019-10-23T14:00:14Z",
+            "id": "https://potakast.takashi.dev/ep/011/",
+            "url": "https://potakast.takashi.dev/ep/011/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003e数日後に迫った海外旅行に、どのように準備をし出発数日前を迎えたのかを話をしました。\u003c/p\u003e\n\u003cp\u003eまた、前回配信分の動画編集についてのフォローアップも冒頭にお話ししております。DaVinci Resolve 16では、こんなところにテキストツールの表示非表示が隠れていたのか！\u003c/p\u003e\n\u003c!-- raw HTML omitted --\u003e\n\u003cp\u003eMusic by slenderbodies @\u003ca href=\"https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw\"\u003eYouTube\u003c/a\u003e\u003c/p\u003e\n"
+        },
+        {
+            "title": "010: I made my first home video",
+            "date_published": "2019-10-12T03:00:12Z",
+            "date_modified": "2019-10-12T03:00:12Z",
+            "id": "https://potakast.takashi.dev/ep/010/",
+            "url": "https://potakast.takashi.dev/ep/010/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003eはじめてビデオ編集にチャレンジをしました。iMovieだけでは満足をせず、プロ用ソフトDa Vinci Resolve 16での動画編集に挑戦したときの苦労話。\u003c/p\u003e\n"
+        },
+        {
+            "title": "009: Planning trip to Switzerland",
+            "date_published": "2019-10-05T02:00:13Z",
+            "date_modified": "2019-10-05T02:00:13Z",
+            "id": "https://potakast.takashi.dev/ep/009/",
+            "url": "https://potakast.takashi.dev/ep/009/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003eヨーロッパ旅行を計画中の際に気が付いたこと、そして旅行で回る予定の都市についてお話ししました。\u003c/p\u003e\n"
+        },
+        {
+            "title": "008: Refreshing grocery super market",
+            "date_published": "2019-08-24T06:00:58Z",
+            "date_modified": "2019-08-24T06:00:58Z",
+            "id": "https://potakast.takashi.dev/ep/008/",
+            "url": "https://potakast.takashi.dev/ep/008/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003e帰省時に発見したスーパーの充実さと言ったら、都市部に住んでいると羨ましいばかりです。そのほかにも、わんこそばと言った不思議な文化も体験してまいりました。\u003c/p\u003e\n\u003cp\u003e急な腰痛に見舞われまして一時期動けなくなりましたが、皆さんもお体ご自愛ください。\u003c/p\u003e\n\u003c!-- raw HTML omitted --\u003e\n"
+        },
+        {
+            "title": "007: Learning Computer Science and Linux Essentials",
+            "date_published": "2019-08-19T10:00:38Z",
+            "date_modified": "2019-08-19T10:00:38Z",
+            "id": "https://potakast.takashi.dev/ep/007/",
+            "url": "https://potakast.takashi.dev/ep/007/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003e先日紹介したMOOCの Learning Resources を利用して、CSとLinux哲学について勉強をしていることをお話ししました。\u003c/p\u003e\n"
+        },
+        {
+            "title": "006: Boosting capability with MOOC",
+            "date_published": "2019-07-30T12:00:34Z",
+            "date_modified": "2019-07-30T12:00:34Z",
+            "id": "https://potakast.takashi.dev/ep/006/",
+            "url": "https://potakast.takashi.dev/ep/006/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003e先伸ばしていた自己紹介において、Pythonプログラミングなどをどのように勉強しているかについてお話をしました。\u003c/p\u003e\n"
+        },
+        {
+            "title": "005: Are you talking with people, really?",
+            "date_published": "2019-07-15T00:00:07Z",
+            "date_modified": "2019-07-15T00:00:07Z",
+            "id": "https://potakast.takashi.dev/ep/005/",
+            "url": "https://potakast.takashi.dev/ep/005/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003eとあるmemeを調べて学んだこと、感じたことについてお話をしました。\u003c/p\u003e\n"
+        },
+        {
+            "title": "004: The Best Distance with TV and Room Colour Scheme",
+            "date_published": "2019-06-17T14:00:03Z",
+            "date_modified": "2019-06-17T14:00:03Z",
+            "id": "https://potakast.takashi.dev/ep/004/",
+            "url": "https://potakast.takashi.dev/ep/004/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003e新元号あけまして、引越しをいたしました。その際に学んだインテリアコーディネートについてお話をしました。\u003c/p\u003e\n"
+        },
+        {
+            "title": "003: What Is Your Happy Moment?",
+            "date_published": "2019-05-04T06:40:47Z",
+            "date_modified": "2019-05-04T06:40:47Z",
+            "id": "https://potakast.takashi.dev/ep/003/",
+            "url": "https://potakast.takashi.dev/ep/003/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003e新元号令和、おめでとうございます。\u003c/p\u003e\n\u003cp\u003eみなさんはどのような時に幸せを感じますか？Bush Walkingについてお話ししました。\u003c/p\u003e\n"
+        },
+        {
+            "title": "002: I am a part of a camera",
+            "date_published": "2019-04-17T14:00:16Z",
+            "date_modified": "2019-04-17T14:00:16Z",
+            "id": "https://potakast.takashi.dev/ep/002/",
+            "url": "https://potakast.takashi.dev/ep/002/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003e写真を撮るときは断然単焦点。ズーム機能は極力使わない。\u003c/p\u003e\n\u003cp\u003eこれは、Takaが写真撮影をするときのポリシーについて語る配信です。\u003c/p\u003e\n"
+        },
+        {
+            "title": "001: Another level of Animation",
+            "date_published": "2019-04-13T17:00:19Z",
+            "date_modified": "2019-04-13T17:00:19Z",
+            "id": "https://potakast.takashi.dev/ep/001/",
+            "url": "https://potakast.takashi.dev/ep/001/",
+            "authors": [
+                {
+                  "name": "Taka"
+                }
+            ],
+            "content_html": "\u003cp\u003eSpider-Man: Into The Spider-Verseを視聴した興奮が鳴り止まない中で。Potakastの初回をお届けします。\u003c/p\u003e\n"
+        }
+        ]
+}

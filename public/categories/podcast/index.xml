@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast  Potakast</title>
+    <link>https://potakast.takashi.dev/categories/podcast/</link>
+    <description>  Podcast  Potakast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 26 Jan 2020 07:00:25 +0000</lastBuildDate>
+    <atom:link href="https://potakast.takashi.dev/categories/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>015: This year to write in markdown and bullet journalling</title>
+      <link>https://potakast.takashi.dev/ep/015/</link>
+      <pubDate>Sun, 26 Jan 2020 07:00:25 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/015/</guid>
+      <description>&lt;p&gt;2020年の学びで予定していることを軸に、今年に入ってから数週間はまっていることをお話ししました。日記を書く、メモを取る時など、是非シンプルなテキストファイルを使ってみてください。時間も空間も超えて持ち運ぶことができるフォーマットで自分の情報を持ち歩くと便利ですよ。&lt;/p&gt;
+&lt;p&gt;エンジニアとして&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;January - &lt;a href=&#34;http://www.jstqb.jp/syllabus.html&#34;&gt;JSTQB Exam&lt;/a&gt; Foundation Level&lt;/li&gt;
+&lt;li&gt;February - &lt;a href=&#34;https://www.uopeople.edu/programs/cs/degrees/computer-science-bachelor-degree-2/&#34;&gt;Bachelor of Computer Science at UoP&lt;/a&gt;, a free course in accredit university&lt;/li&gt;
+&lt;li&gt;March - Machine Learning Training&lt;/li&gt;
+&lt;li&gt;June - Write component and system tests&lt;/li&gt;
+&lt;li&gt;Aug - Packing software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;学びたい言語&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;April - Chinese &lt;a href=&#34;http://www.hskj.jp/level/&#34;&gt;HSK 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;German on &lt;a href=&#34;https://www.duolingo.com/course/de/en/Learn-German&#34;&gt;duolingo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Music by slenderbodies @&lt;a href=&#34;https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>014: Wonderful Year 2019</title>
+      <link>https://potakast.takashi.dev/ep/014/</link>
+      <pubDate>Sun, 22 Dec 2019 08:00:59 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/014/</guid>
+      <description>&lt;p&gt;年の瀬となりまして、2019年の振り返りをいたしました。この一年はみなさんにとっていかがでしたでしょうか。しっかりと、日記やブログなどに記録をしていきましょう。自身の成長につながるそうですよ。&lt;/p&gt;
+&lt;p&gt;新しく始めたこととして&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python, Bash&lt;/li&gt;
+&lt;li&gt;Potakast&lt;/li&gt;
+&lt;li&gt;Konmari&lt;/li&gt;
+&lt;li&gt;Family, and Life&lt;/li&gt;
+&lt;li&gt;New Job in Software Development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;楽しめたことは&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Travel&lt;/li&gt;
+&lt;li&gt;Playing Switch on Train&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Music by slenderbodies @&lt;a href=&#34;https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>013: Four Days Based in Bern and Zurich</title>
+      <link>https://potakast.takashi.dev/ep/013/</link>
+      <pubDate>Sun, 15 Dec 2019 10:00:00 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/013/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://potakast.fm/ep/012/&#34;&gt;ep012&lt;/a&gt;からの続き、ヨーロッパの旅行スイス編です。スイスでは3つの都市に泊まり、5箇所の町を回ってきました。&lt;/p&gt;
+&lt;p&gt;Music by slenderbodies @&lt;a href=&#34;https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>012: Two days Trip in Venice and Milan</title>
+      <link>https://potakast.takashi.dev/ep/012/</link>
+      <pubDate>Sat, 30 Nov 2019 09:00:49 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/012/</guid>
+      <description>&lt;p&gt;ヨーロッパ旅行から帰ってまいりました。ヴェネチアとミラノに滞在をしてよかったこと、大変だったことをお話ししています。&lt;/p&gt;
+&lt;p&gt;Music by slenderbodies @&lt;a href=&#34;https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>011: How I prepared my trip to Switzerland and Italy</title>
+      <link>https://potakast.takashi.dev/ep/011/</link>
+      <pubDate>Wed, 23 Oct 2019 14:00:14 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/011/</guid>
+      <description>&lt;p&gt;数日後に迫った海外旅行に、どのように準備をし出発数日前を迎えたのかを話をしました。&lt;/p&gt;
+&lt;p&gt;また、前回配信分の動画編集についてのフォローアップも冒頭にお話ししております。DaVinci Resolve 16では、こんなところにテキストツールの表示非表示が隠れていたのか！&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Music by slenderbodies @&lt;a href=&#34;https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>010: I made my first home video</title>
+      <link>https://potakast.takashi.dev/ep/010/</link>
+      <pubDate>Sat, 12 Oct 2019 03:00:12 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/010/</guid>
+      <description>&lt;p&gt;はじめてビデオ編集にチャレンジをしました。iMovieだけでは満足をせず、プロ用ソフトDa Vinci Resolve 16での動画編集に挑戦したときの苦労話。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>009: Planning trip to Switzerland</title>
+      <link>https://potakast.takashi.dev/ep/009/</link>
+      <pubDate>Sat, 05 Oct 2019 02:00:13 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/009/</guid>
+      <description>&lt;p&gt;ヨーロッパ旅行を計画中の際に気が付いたこと、そして旅行で回る予定の都市についてお話ししました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>008: Refreshing grocery super market</title>
+      <link>https://potakast.takashi.dev/ep/008/</link>
+      <pubDate>Sat, 24 Aug 2019 06:00:58 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/008/</guid>
+      <description>&lt;p&gt;帰省時に発見したスーパーの充実さと言ったら、都市部に住んでいると羨ましいばかりです。そのほかにも、わんこそばと言った不思議な文化も体験してまいりました。&lt;/p&gt;
+&lt;p&gt;急な腰痛に見舞われまして一時期動けなくなりましたが、皆さんもお体ご自愛ください。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>007: Learning Computer Science and Linux Essentials</title>
+      <link>https://potakast.takashi.dev/ep/007/</link>
+      <pubDate>Mon, 19 Aug 2019 10:00:38 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/007/</guid>
+      <description>&lt;p&gt;先日紹介したMOOCの Learning Resources を利用して、CSとLinux哲学について勉強をしていることをお話ししました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>006: Boosting capability with MOOC</title>
+      <link>https://potakast.takashi.dev/ep/006/</link>
+      <pubDate>Tue, 30 Jul 2019 12:00:34 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/006/</guid>
+      <description>&lt;p&gt;先伸ばしていた自己紹介において、Pythonプログラミングなどをどのように勉強しているかについてお話をしました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>005: Are you talking with people, really?</title>
+      <link>https://potakast.takashi.dev/ep/005/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:07 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/005/</guid>
+      <description>&lt;p&gt;とあるmemeを調べて学んだこと、感じたことについてお話をしました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>004: The Best Distance with TV and Room Colour Scheme</title>
+      <link>https://potakast.takashi.dev/ep/004/</link>
+      <pubDate>Mon, 17 Jun 2019 14:00:03 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/004/</guid>
+      <description>&lt;p&gt;新元号あけまして、引越しをいたしました。その際に学んだインテリアコーディネートについてお話をしました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>003: What Is Your Happy Moment?</title>
+      <link>https://potakast.takashi.dev/ep/003/</link>
+      <pubDate>Sat, 04 May 2019 06:40:47 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/003/</guid>
+      <description>&lt;p&gt;新元号令和、おめでとうございます。&lt;/p&gt;
+&lt;p&gt;みなさんはどのような時に幸せを感じますか？Bush Walkingについてお話ししました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>002: I am a part of a camera</title>
+      <link>https://potakast.takashi.dev/ep/002/</link>
+      <pubDate>Wed, 17 Apr 2019 14:00:16 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/002/</guid>
+      <description>&lt;p&gt;写真を撮るときは断然単焦点。ズーム機能は極力使わない。&lt;/p&gt;
+&lt;p&gt;これは、Takaが写真撮影をするときのポリシーについて語る配信です。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>001: Another level of Animation</title>
+      <link>https://potakast.takashi.dev/ep/001/</link>
+      <pubDate>Sat, 13 Apr 2019 17:00:19 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/001/</guid>
+      <description>&lt;p&gt;Spider-Man: Into The Spider-Verseを視聴した興奮が鳴り止まない中で。Potakastの初回をお届けします。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+---
+author: Taka
+date: 2019-04-13 17:00:19+00:00
+draft: false
+title: '001: Another level of Animation'
+type: post
+url: /ep/001/
+categories:
+- Podcast
+podcast:
+    mp3:        "https://s3.ap-northeast-1.amazonaws.com/potakast.fm/001Re.m4a"
+    duration:   1513
+    image:
+        src:    "https://www.takashi.dev/images/20200920-ios14_home.jpg"
+    season:     1
+---
+
+
+
+
+Spider-Man: Into The Spider-Verseを視聴した興奮が鳴り止まない中で。Potakastの初回をお届けします。
+
+
+

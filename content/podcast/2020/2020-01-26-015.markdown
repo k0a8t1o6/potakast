@@ -1,0 +1,55 @@
+---
+author: Taka
+date: 2020-01-26 07:00:25+00:00
+draft: false
+title: '015: This year to write in markdown and bullet journalling'
+type: post
+url: /ep/015/
+categories:
+- Podcast
+podcast:
+    mp3:        "https://s3.ap-northeast-1.amazonaws.com/potakast.fm/015.m4a"
+    duration:   791
+    image:
+        src:    "https://www.takashi.dev/images/20200920-ios14_home.jpg"
+    season:     1
+---
+
+
+
+
+2020年の学びで予定していることを軸に、今年に入ってから数週間はまっていることをお話ししました。日記を書く、メモを取る時など、是非シンプルなテキストファイルを使ってみてください。時間も空間も超えて持ち運ぶことができるフォーマットで自分の情報を持ち歩くと便利ですよ。
+
+
+
+
+
+
+
+エンジニアとして  
+- January - [JSTQB Exam](http://www.jstqb.jp/syllabus.html) Foundation Level  
+- February - [Bachelor of Computer Science at UoP](https://www.uopeople.edu/programs/cs/degrees/computer-science-bachelor-degree-2/), a free course in accredit university  
+- March - Machine Learning Training  
+- June - Write component and system tests  
+- Aug - Packing software
+
+
+
+
+
+
+
+学びたい言語  
+- April - Chinese [HSK 4](http://www.hskj.jp/level/)  
+- German on [duolingo](https://www.duolingo.com/course/de/en/Learn-German)
+
+
+
+
+
+
+
+Music by slenderbodies @[YouTube](https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw)
+
+
+

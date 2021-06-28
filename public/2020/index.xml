@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020  Potakast</title>
+    <link>https://potakast.takashi.dev/2020/</link>
+    <description>  2020  Potakast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 26 Jan 2020 07:00:25 +0000</lastBuildDate>
+    <atom:link href="https://potakast.takashi.dev/2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>015: This year to write in markdown and bullet journalling</title>
+      <link>https://potakast.takashi.dev/ep/015/</link>
+      <pubDate>Sun, 26 Jan 2020 07:00:25 +0000</pubDate>
+      <guid>https://potakast.takashi.dev/ep/015/</guid>
+      <description>&lt;p&gt;2020年の学びで予定していることを軸に、今年に入ってから数週間はまっていることをお話ししました。日記を書く、メモを取る時など、是非シンプルなテキストファイルを使ってみてください。時間も空間も超えて持ち運ぶことができるフォーマットで自分の情報を持ち歩くと便利ですよ。&lt;/p&gt;
+&lt;p&gt;エンジニアとして&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;January - &lt;a href=&#34;http://www.jstqb.jp/syllabus.html&#34;&gt;JSTQB Exam&lt;/a&gt; Foundation Level&lt;/li&gt;
+&lt;li&gt;February - &lt;a href=&#34;https://www.uopeople.edu/programs/cs/degrees/computer-science-bachelor-degree-2/&#34;&gt;Bachelor of Computer Science at UoP&lt;/a&gt;, a free course in accredit university&lt;/li&gt;
+&lt;li&gt;March - Machine Learning Training&lt;/li&gt;
+&lt;li&gt;June - Write component and system tests&lt;/li&gt;
+&lt;li&gt;Aug - Packing software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;学びたい言語&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;April - Chinese &lt;a href=&#34;http://www.hskj.jp/level/&#34;&gt;HSK 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;German on &lt;a href=&#34;https://www.duolingo.com/course/de/en/Learn-German&#34;&gt;duolingo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Music by slenderbodies @&lt;a href=&#34;https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
